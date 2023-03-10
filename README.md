@@ -1,1 +1,1 @@
-# singleprocess
+# Bộ xử lí đơn xung nhịp 
